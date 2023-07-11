@@ -1,4 +1,4 @@
-# Fugo Fortress
+# Fuego Fortress
 
 ## Deployed via Decentraland Worlds
 
