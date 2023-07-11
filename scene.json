@@ -111,6 +111,7 @@
   ],
   "featureToggles": {},
   "worldConfiguration" : {
-    "name": "NikkiFuego.dcl.eth"
+    "name": "NikkiFuego.dcl.eth",
+    "skybox": 43200
   }
 }

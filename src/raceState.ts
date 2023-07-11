@@ -71,5 +71,5 @@ export function toStartArea(){
 
 export function endRace(){
   setRaceStatus("finished")
-  movePlayerTo({ newRelativePosition: Vector3.create(64,115,64), cameraTarget: Vector3.create(64,40,64) })
+  movePlayerTo({ newRelativePosition: Vector3.create(64,115,64), cameraTarget: Vector3.create(66.28, 101, 72.20) })
 }
